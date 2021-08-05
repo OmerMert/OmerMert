@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OmerMert
-- 👀 I’m interested in Programming, AI, microcontroller etc.
+- 👀 I’m interested in Programming, AI, microcontroller, 3D printing etc.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me myurdakul65@gmail.com
