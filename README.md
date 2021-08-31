@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmerMert
 - 👀 I’m interested in generally programming and electronics such as C/C++, Python, AI, Arduino, microcontroller, 3D printing etc.
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me myurdakul65@gmail.com
 
