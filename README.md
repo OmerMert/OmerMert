@@ -7,7 +7,7 @@
 #### Connect with me:
 
 [<img align="left" alt="LinkedIn | LinkedIn" width="32px" src="https://user-images.githubusercontent.com/47865653/141461130-a6022de4-d3fc-466f-ad79-e3195c562c54.png" />][linkedin]
-
+[<img align="left" alt="Mail | Mail" width="32px" src="https://user-images.githubusercontent.com/47865653/141462414-70e1fd0f-2552-4b60-84de-299e1ec6e03b.png" />][Mail]
 <br />
 
 #### Languages and Tools: 
@@ -23,7 +23,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/%C3%B6mer-mert-yurdakul-586a58201/
-
+[Mail]: yurdakulomer21@gmail.com
 <!---
 OmerMert/OmerMert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
