@@ -6,7 +6,7 @@
 
 #### Connect with me:
 
-[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/47865653/141461130-a6022de4-d3fc-466f-ad79-e3195c562c54.png" />][linkedin]
+[<img align="left" alt="LinkedIn | LinkedIn" width="32px" src="https://user-images.githubusercontent.com/47865653/141461130-a6022de4-d3fc-466f-ad79-e3195c562c54.png" />][linkedin]
 
 <br />
 
