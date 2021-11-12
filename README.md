@@ -1,6 +1,6 @@
 <img src="https://github.com/OmerMert/OmerMert/blob/main/header.png">
 
-- 🏫 I’m Electrical & Electronics Engineering Student at Gazi University
+- 🏫 I’m an Electrical & Electronics Engineering Student at Gazi University
 - 👀 I’m interested in generally programming and electronics such as C/C++, Python, AI, Arduino, microcontroller, 3D printing etc.
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on projects
