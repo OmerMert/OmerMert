@@ -23,7 +23,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/%C3%B6mer-mert-yurdakul-586a58201/
-[Mail]: yurdakulomer21@gmail.com
+[Mail]: (yurdakulomer21@gmail.com)
 <!---
 OmerMert/OmerMert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
