@@ -13,6 +13,7 @@
 #### Languages and Tools: 
 <img align="left" alt="C" width="32px" src="https://user-images.githubusercontent.com/47865653/141461299-ebd48560-db6a-40c5-83f3-abf94eb7db58.png" />
 <img align="left" alt="Cpp" width="32px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_24x24.png" />
+<img align="left" alt="C#" width="32px" src="https://user-images.githubusercontent.com/47865653/144924546-ee03d54f-d36a-446d-a583-f91deb400b85.png" />
 <img align="left" alt="Python" width="32px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_24x24.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Arduino" width="32px" src="https://user-images.githubusercontent.com/47865653/141461666-c6631d3c-718f-4591-aece-7a63d274bac4.png" />
