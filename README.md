@@ -1,9 +1,9 @@
 <img src="https://github.com/OmerMert/OmerMert/blob/main/header.png">
 
 - 🏫 I’m an Electrical & Electronics Engineering Student at Gazi University
-- 👀 I’m interested in generally programming and electronics such as C/C++, Python, AI, Arduino, microcontroller, 3D printing etc.
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in programming and electronics
+- 🌱 I’m currently working on Unmanned Aerial Vehicle(UAV)
+
 
 #### Connect with me: 
 [<img align="left" alt="LinkedIn | LinkedIn" width="32px" src="https://user-images.githubusercontent.com/47865653/141461130-a6022de4-d3fc-466f-ad79-e3195c562c54.png" />][linkedin]
