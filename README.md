@@ -2,7 +2,6 @@
 
 - 🏫 I’m an Electrical & Electronics Engineering Student at Gazi University
 - 👀 I’m interested in programming and electronics
-- 🌱 I’m currently working on Unmanned Aerial Vehicle(UAV)
 
 
 #### Connect with me: 
