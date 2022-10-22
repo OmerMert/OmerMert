@@ -1,7 +1,7 @@
 <img src="https://github.com/OmerMert/OmerMert/blob/main/header.png">
 
 - 🏫 I’m an Electrical & Electronics Engineering Student at Gazi University
-- 👀 I’m interested in programming and electronics
+- 👀 I’m interested in Embedded Systems and AI
 
 
 #### Connect with me: 
