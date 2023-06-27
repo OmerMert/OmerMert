@@ -1,7 +1,7 @@
 <img src="https://github.com/OmerMert/OmerMert/blob/main/header.png">
 
-- 🏫 I’m an Electrical & Electronics Engineering Student at Gazi University
-- 👀 I’m interested in Embedded Systems and Computer Vision
+- 🏫 I’m an Electrical & Electronics Engineer
+- 👀 I’m interested in Embedded Systems and Image Processing
 
 
 #### Connect with me: 
@@ -11,6 +11,7 @@
 
 #### Languages and Tools: 
 <img align="left" alt="C" width="32px" src="https://user-images.githubusercontent.com/47865653/141461299-ebd48560-db6a-40c5-83f3-abf94eb7db58.png" />
+<img align="left" alt="C++" width="32px" src="https://github.com/OmerMert/OmerMert/assets/47865653/678022b0-af8d-4bbe-a00b-b22812839ac8" />
 <img align="left" alt="C#" width="32px" src="https://user-images.githubusercontent.com/47865653/144924546-ee03d54f-d36a-446d-a583-f91deb400b85.png" />
 <img align="left" alt="Python" width="32px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_24x24.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
